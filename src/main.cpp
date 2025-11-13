@@ -41,4 +41,4 @@ int main() {
     cout << (czy_palindrom("test") ? "Palindrom" : "Nie palindrom") << endl;
 
     return 0;
-}
+}g
