@@ -17,6 +17,8 @@ bool czy_palindrom(string tekst) {
     return true; 
 }
 
+
+
 void zadanie_1() {
     ifstream plik(z2_1_path_symbole_txt);
     if (!plik.is_open()) {
@@ -37,6 +39,10 @@ void zadanie_1() {
     plik.close(); 
 }
 
+
+void Zadanie2_2(){
+    
+}
 int main() {
     zadanie_1(); 
 
